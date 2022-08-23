@@ -1,7 +1,7 @@
 # geo-weather
 compact Windows to retrieve weather by your GPS location
 # About
-This project was created forlearning purposes by using best OOP design practices, demonstrating usage of latest Python linting features and working
+This project was created for learning purposes: usage of best OOP design practices, latest Python linting features and working
 with REST API for retrieving weather data. It doesn't require any additional packages to run locally, however ```config.py``` with my pesronal openweather
 url is not present for obvious reasons.
 
